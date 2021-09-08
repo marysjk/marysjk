@@ -8,5 +8,4 @@
 ![Marysjk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marysjk&show_icons=true&theme=dracula&count_private=true)
 
 ## 2. Top Language Card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marysjk)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marysjk)
