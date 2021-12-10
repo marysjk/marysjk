@@ -31,4 +31,4 @@
 <br />
 
 [Linkedin]: https://www.linkedin.com/in/marianabbatista/
-[Gmail]: marysjk@gmail.com
+[Gmail]: mailto:marysjk@gmail.com
