@@ -10,6 +10,7 @@
 [<img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][Gmail]
 
 <br />
+<br />
 
 ### Languages and Tools:
 
@@ -23,8 +24,10 @@
 <img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/color/48/000000/capybara.png" />
 
 <br />
+<br />
 
-## 1. GitHub Stats
+
+### GitHub Stats
 ![Marysjk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marysjk&show_icons=true&theme=dracula&count_private=true)
 
 
@@ -32,3 +35,4 @@
 
 [Linkedin]: https://www.linkedin.com/in/marianabbatista/
 [Gmail]: mailto:marysjk@gmail.com
+[Badge]: https://www.myequals.net/#/badges/public/assertion/pwYPPM7jRuuJi44vw1O8Uw
