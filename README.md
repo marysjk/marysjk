@@ -27,10 +27,7 @@
 ## 1. GitHub Stats
 ![Marysjk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marysjk&show_icons=true&theme=dracula&count_private=true)
 
-## 2. Top Language Card
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marysjk)
 
-<br />
 <br />
 
 [Linkedin]: https://www.linkedin.com/in/marianabbatista/
