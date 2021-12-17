@@ -28,7 +28,7 @@
 
 
 ### GitHub Stats
-![Marysjk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marysjk&show_icons=true&theme=dracula&count_private=true)
+![Marysjk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marysjk&show_icons=true&theme=buefy&count_private=true)
 
 
 <br />
