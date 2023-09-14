@@ -1,6 +1,6 @@
 ## Hi there, I’m Mariana 👋  
 - 👀  I’m currently looking for a job in Auckland, New Zealand.
-- 🌱  I’m currently learning Python and AWS.
+- 🌱  I’m currently learning Cypress and API Automation.
 
 
 
@@ -9,7 +9,6 @@
 [<img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][Linkedin]
 [<img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][Gmail]
 
-<br />
 <br />
 
 ### Languages and Tools:
@@ -22,17 +21,18 @@
 <img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/nolan/64/github.png" />
 <img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" />
 <img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/color/48/000000/capybara.png" />
+<img align="left" alt="marysjk" width="30px" src="https://icons8.com/icon/39853/javascript.png" />
 
 <br />
+
+## 1. GitHub Stats
+![Marysjk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marysjk&show_icons=true&theme=dracula&count_private=true)
+
+## 2. Top Language Card
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marysjk)
+
 <br />
-
-
-### GitHub Stats
-![Marysjk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marysjk&show_icons=true&theme=buefy&count_private=true)
-
-
 <br />
 
 [Linkedin]: https://www.linkedin.com/in/marianabbatista/
-[Gmail]: mailto:marysjk@gmail.com
-[Badge]: https://www.myequals.net/#/badges/public/assertion/pwYPPM7jRuuJi44vw1O8Uw
+[Gmail]: marysjk@gmail.com
