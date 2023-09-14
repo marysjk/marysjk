@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="marysjk" width="30px" src="https://www.cypress.io/images/layouts/navbar-brand.svg" />
+<img align="left" alt="marysjk" width="30px" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" />
 <img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/?size=256&id=39853&format=png" />
 <img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/?size=256&id=QEQQKirln6Tf&format=png" />
 <img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
