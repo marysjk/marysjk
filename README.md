@@ -15,6 +15,7 @@
 
 <img align="left" alt="marysjk" width="30px" src="https://www.cypress.io/images/layouts/navbar-brand.svg" />
 <img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/?size=256&id=39853&format=png" />
+<img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/?size=256&id=QEQQKirln6Tf&format=png" />
 <img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 <img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" />
 <img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/color/48/000000/git.png" />
