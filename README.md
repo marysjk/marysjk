@@ -21,7 +21,7 @@
 <img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/nolan/64/github.png" />
 <img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" />
 <img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/color/48/000000/capybara.png" />
-<img align="left" alt="marysjk" width="30px" src="https://icons8.com/icon/39853/javascript.png" />
+<img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/?size=256&id=39853&format=png" />
 
 <br />
 
