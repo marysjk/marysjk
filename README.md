@@ -1,6 +1,6 @@
 ## Hi there, I’m Mariana 👋  
-- 👀  I’m currently looking for a job in Auckland, New Zealand.
-- 🌱  I’m currently learning Cypress and API Automation.
+- 👀  I’m looking for a job in Auckland, New Zealand.
+- 🌱  I’m currently learning Cypress, Playwright, and API Automation.
 
 
 
