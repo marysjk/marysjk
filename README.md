@@ -1,40 +1,26 @@
-## Hi there, I’m Mariana 👋  
-- 👀  I’m looking for a job in Auckland, New Zealand.
-- 🌱  I’m currently learning Cypress, Playwright, and API Automation.
+# Hi there, I'm Mariana! 👋
 
+### QA Analyst | Data Testing & ETL Validation 🚀
+I am a QA Analyst with a strong focus on **Data Testing**, working with ETL processes, data pipelines, and system integrations. My work ensures that data transformations and flows across complex environments result in accurate, consistent, and reliable information.
 
+- 📍 Based in **Auckland, New Zealand**.
+- 🔍 **Expertise:** Validating data integrity from ingestion to reporting, ensuring "trusted data" for business decisions.
+- 🤖 **AI-Enhanced QA:** Leveraging AI tools to optimize test case design and accelerate technical data analysis.
 
-### Connect with me:
+---
 
-[<img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][Linkedin]
-[<img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][Gmail]
+**Learning Path & Goals:**
+- 🎯 **Data Testing Automation:** Building intelligent testing strategies for data pipelines.
+- 🏗️ **Data Engineering:** Moving toward a Data Engineer role by mastering data architecture and automation.
 
-<br />
+---
 
-### Languages and Tools:
+### 📫 Connect with me:
 
-<img align="left" alt="marysjk" width="30px" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" />
-<img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/?size=256&id=39853&format=png" />
-<img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/?size=256&id=QEQQKirln6Tf&format=png" />
-<img align="left" alt="marysjk" width="30px" src="https://cdn-icons-png.flaticon.com/512/10435/10435128.png" />
-<img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" />
-<img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
-<img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/color/48/000000/git.png" />
-<img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" />
-<img align="left" alt="marysjk" width="30px" src="https://img.icons8.com/nolan/64/github.png" />
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianabbatista/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marysjk@gmail.com)
 
+---
 
-
-<br />
-
-## 1. GitHub Stats
-![Marysjk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marysjk&show_icons=true&theme=dracula&count_private=true)
-
-## 2. Top Language Card
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marysjk)
-
-<br />
-<br />
-
-[Linkedin]: https://www.linkedin.com/in/marianabbatista/
-[Gmail]: marysjk@gmail.com
+### 📈 GitHub Stats
+![Mariana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marysjk&show_icons=true&theme=dracula&count_private=true)
