@@ -19,8 +19,3 @@ I am a QA Analyst with a strong focus on **Data Testing**, working with ETL proc
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianabbatista/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marysjk@gmail.com)
-
----
-
-### 📈 GitHub Stats
-![Mariana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marysjk&show_icons=true&theme=dracula&count_private=true)
